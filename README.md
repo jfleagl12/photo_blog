@@ -1,0 +1,1 @@
+A simple photo blog made with CSS. 
